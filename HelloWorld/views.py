@@ -21,3 +21,6 @@ def login_view(request):
             return render(request, 'login.html')
     else:
         return HttpResponse('您走错了！')
+
+def test():
+    print()
