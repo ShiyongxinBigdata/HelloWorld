@@ -24,3 +24,6 @@ def login_view(request):
 
 def test():
     print('haha!')
+
+def test1():
+    print('haha!')
