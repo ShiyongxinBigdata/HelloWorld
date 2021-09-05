@@ -23,4 +23,4 @@ def login_view(request):
         return HttpResponse('您走错了！')
 
 def test():
-    print()
+    print('haha!')
